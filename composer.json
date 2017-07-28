@@ -1,0 +1,15 @@
+{
+    "name": "nya/chat",
+    "description": "基于swoole的laravel聊天插件",
+    "authors": [
+        {
+            "name": "kicoe",
+            "email": "1370808234@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nya\\Chat\\": "src/"
+        }
+    }
+}
